@@ -1,3 +1,3 @@
 Drawer Menu by Compose
 -----
-![compose](/image/drawer-menu.mp4)
+![compose](/image/drawer-menu.gif)
